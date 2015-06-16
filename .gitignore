@@ -1,0 +1,6 @@
+#*.*#
+*.*~
+*.*.sw*
+conf/migrations.yml
+*.test
+test.go
